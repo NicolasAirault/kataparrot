@@ -1,8 +1,8 @@
 package fr.unilim.iut.kataparrot;
 
-public class ParrotEuro extends Parrot{
+public class EuropeanParrot extends Parrot{
 
-	public ParrotEuro() {
+	public EuropeanParrot() {
 		super();
 	}
 

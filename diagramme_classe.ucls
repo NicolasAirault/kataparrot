@@ -10,8 +10,8 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="2" language="java" name="fr.unilim.iut.kataparrot.ParrotAfri" project="kataparrot" 
-    file="/kataparrot/src/main/java/fr/unilim/iut/kataparrot/ParrotAfri.java" binary="false" corner="BOTTOM_RIGHT">    
+  <class id="2" language="java" name="fr.unilim.iut.kataparrot.AfricanParrot" project="kataparrot" 
+    file="/kataparrot/src/main/java/fr/unilim/iut/kataparrot/AfricanParrot.java" binary="false" corner="BOTTOM_RIGHT">    
     <position height="-1" width="-1" x="154" y="489"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
@@ -19,8 +19,8 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="3" language="java" name="fr.unilim.iut.kataparrot.ParrotEuro" project="kataparrot" 
-    file="/kataparrot/src/main/java/fr/unilim/iut/kataparrot/ParrotEuro.java" binary="false" corner="BOTTOM_RIGHT">    
+  <class id="3" language="java" name="fr.unilim.iut.kataparrot.EuropeanParrot" project="kataparrot" 
+    file="/kataparrot/src/main/java/fr/unilim/iut/kataparrot/EuropeanParrot.java" binary="false" corner="BOTTOM_RIGHT">    
     <position height="135" width="253" x="379" y="438"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
@@ -28,8 +28,9 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="4" language="java" name="fr.unilim.iut.kataparrot.ParrotNorw" project="kataparrot" 
-    file="/kataparrot/src/main/java/fr/unilim/iut/kataparrot/ParrotNorw.java" binary="false" corner="BOTTOM_RIGHT">    
+  <class id="4" language="java" name="fr.unilim.iut.kataparrot.NorwegianBlueParrot" project="kataparrot" 
+    file="/kataparrot/src/main/java/fr/unilim/iut/kataparrot/NorwegianBlueParrot.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
     <position height="-1" width="-1" x="679" y="256"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      

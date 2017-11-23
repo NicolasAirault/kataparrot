@@ -1,12 +1,12 @@
 package fr.unilim.iut.kataparrot;
 
-public class ParrotNorw extends Parrot{
+public class NorwegianBlueParrot extends Parrot{
 
 	private boolean isNailed;
 	private double voltage;
 	
 	
-	public ParrotNorw(double voltage, boolean isNailed) {
+	public NorwegianBlueParrot(double voltage, boolean isNailed) {
 		super();
 		this.isNailed = isNailed;
 		this.voltage = voltage;
